@@ -1,0 +1,2 @@
+# ignore saved datasets which are large sizes
+dataset/*.h5
