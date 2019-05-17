@@ -3,6 +3,3 @@ dataset/*.h5
 
 # ignore iPython notebook checkpoints
 **/.ipynb_checkpoints
-
-# ignore already trained parameters
-train/
