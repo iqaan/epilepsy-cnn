@@ -7,3 +7,11 @@ dataset/**/*.h5
 
 # ignore already trained parameters
 train/
+
+# ignore the original dataset
+
+dataset/F/
+dataset/N/
+dataset/O/
+dataset/S/
+dataset/Z/
