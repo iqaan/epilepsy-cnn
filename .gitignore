@@ -6,12 +6,10 @@ dataset/**/*.h5
 **/.ipynb_checkpoints/
 
 # ignore already trained parameters
-train/
+# we've commented out train/ because a separate .gitignore
+# is added in that directory, to include the directory itself
+# but not the sub-directories
+# train/
 
 # ignore the original dataset
 
-dataset/F/
-dataset/N/
-dataset/O/
-dataset/S/
-dataset/Z/
